@@ -7,8 +7,8 @@ Skills: C# / PostgreSQL / MSSQL / Oracle / Power BI / Tableau / Qlik Sense
 
 - 🧑‍💻 I’m currently learning C#  
 - 💬 Ask me about C# 🖥️🚀, SQL 📊📈📉 
-- 😄 Pronouns: Coffee Lover ☕ 
-- ⚡ Fun fact: Console.WriteLine("Everything starts with 'Hello, World!'") 👋🌍 
+- ☕ Coffee Lover  
+- ⚡ Console.WriteLine("Everything starts with 'Hello, World!'") 👋🌍 
 
 
 
