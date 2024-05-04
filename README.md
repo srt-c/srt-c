@@ -1,4 +1,9 @@
 
+**About me**
+
+- 💼 FrontEnd Developer             
+- 💬 Ask me about anything [here](https://github.com/sertackisalar/sertackisalar/issues)
+
 ## 🌐 Socials:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/srtcode) 
 
