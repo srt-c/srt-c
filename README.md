@@ -30,7 +30,7 @@
 ###
 # 💻 Tech Stack:
 <div> 
-<p align="left">
+<p align="center">
   <div style="text-align: center; margin-left: 25px;">
     <div>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
