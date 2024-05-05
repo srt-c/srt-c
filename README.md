@@ -29,7 +29,7 @@
 
 ###
 # 💻 Tech Stack:
-<p align="center">
+<div style="text-align: center;">
     <div>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
     </div>
@@ -52,7 +52,7 @@
      <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="microsoftsqlserver">
      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="postgres">
     </div>
-</p>
+</div>
 
 
 
