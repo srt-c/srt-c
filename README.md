@@ -10,7 +10,7 @@
 
  <p align="center">
   <a href="https://codepen.io/srtcode">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" margin-right="10px">
   </a>
   <a href="https://www.linkedin.com/in/sertac-kisalar">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
