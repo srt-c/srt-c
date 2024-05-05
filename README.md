@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+  [![Codepen](https://img.shields.io/badge/code_pen-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codepen.com/)
 </div>
 
 
@@ -30,9 +30,10 @@
 
 **About me**
 
-- 💼 FrontEnd Developer             
+- 💼 FrontEnd Developer
+- 🧠 I'm currently learning React            
 - 💬 Ask me about anything [Here](https://github.com/sertackisalar/sertackisalar/issues)
-- 📫 Reach me: [sertackisalar.me@gmail.com](mailto:sertackisalar.me@gmail.com)
+- 📫 How to reach me: [sertackisalar.me@gmail.com](mailto:sertackisalar.me@gmail.com)
 
 
 ## 🌐 Socials:
