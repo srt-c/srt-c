@@ -22,7 +22,7 @@
 
 #  :man_technologist: About Me
 
-- 💼 FrontEnd Developer
+- 💼 I am a Front End Developer who is an Industrial Engineer.
 - 🧠 I'm currently learning React            
 - 💬 Ask me about anything [Here](https://github.com/sertackisalar/sertackisalar/issues)
 - 📫 How to reach me: [sertackisalar.me@gmail.com](mailto:sertackisalar.me@gmail.com)
