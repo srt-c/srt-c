@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 I'm a Sertac </h2>
+<h2 align="center" font-width = "bold">Hi 👋 I'm a Sertac </h2>
 
 ###
 
