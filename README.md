@@ -27,6 +27,7 @@
 - 💬 Ask me about anything [Here](https://github.com/sertackisalar/sertackisalar/issues)
 - 📫 How to reach me: [sertackisalar.me@gmail.com](mailto:sertackisalar.me@gmail.com)
 
+###
 
 <div> 
 <p align="left">
