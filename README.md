@@ -31,7 +31,7 @@
 # 💻 Tech Stack:
 <div> 
 <p align="left">
-  <div style="text-align: center;">
+  <div style="text-align: center; margin-left: 25px;">
     <div>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
     </div>
@@ -54,20 +54,10 @@
      <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="microsoftsqlserver">
      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="postgres">
     </div>
-    <div>
-     <img src="" alt="">
-     <img src="" alt="">
-     <img src="" alt="">
-    </div>
   </div>
 </p>
-
-
-<p align="center"> </p>
-<p align="right"> </p>
 </div>
 
-![MySQL]() ![MicrosoftSQLServer]() ![Postgres]() ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ! !
 
 
 
