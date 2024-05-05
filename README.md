@@ -20,7 +20,7 @@
 ###
 
 
-# :curly_haired_man: About Me
+#  :man_technologist: About Me
 
 - 💼 FrontEnd Developer
 - 🧠 I'm currently learning React            
