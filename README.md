@@ -29,7 +29,6 @@
 
 ###
 # 💻 Tech Stack:
-<div> 
 <p align="center">
   <div style="text-align: center; margin-left: 25px;">
     <div>
@@ -56,7 +55,6 @@
     </div>
   </div>
 </p>
-</div>
 
 
 
