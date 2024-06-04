@@ -15,9 +15,9 @@
 ###
 <!-- LinkedIn and CodePen Links -->
 
- <p align="center">
+ <p align="center" >
    <a href="https://www.linkedin.com/in/sertac-kisalar">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width="100" height="50">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width="100" height="30" style="border-radius:50%">
   </a>
   <a href="https://codepen.io/srtcode">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen">
