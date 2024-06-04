@@ -1,12 +1,3 @@
-<ul class="c-rainbow">
- <li class="c-rainbow__layer c-rainbow__layer--white">RAINBOW</li>
- <li class="c-rainbow__layer c-rainbow__layer--orange">RAINBOW</li>
- <li class="c-rainbow__layer c-rainbow__layer--red">RAINBOW</li>
- <li class="c-rainbow__layer c-rainbow__layer--violet">RAINBOW</li>
- <li class="c-rainbow__layer c-rainbow__layer--blue">RAINBOW</li>
- <li class="c-rainbow__layer c-rainbow__layer--green">RAINBOW</li>
- <li class="c-rainbow__layer c-rainbow__layer--yellow">RAINBOW</li>
-</ul>
 <h2 align="center" font-size="bold">Hi 👋 I'm Sertac </h2>
 
 ###
