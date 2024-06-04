@@ -1,3 +1,6 @@
+
+
+
 <!-- Title -->
 
 <h2 align="center" font-size="bold">Hi 👋 I'm Sertac </h2>
@@ -5,8 +8,8 @@
 ### 
 <!-- Title Picture -->
 
-<div align="center">
-  <img height="150" src=""  />
+<div align="center" height="150">
+  ![Welcome](https://github.com/sertackisalar/sertackisalar/assets/110279624/ed75bded-37ed-4dfa-8cea-5fc968d257de)
 </div>
 
 ###
