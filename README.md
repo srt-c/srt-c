@@ -28,7 +28,7 @@
 ###
 <!-- About Me -->
 
-#  :man_technologist: About Me &#128126;
+#  :man_technologist: About Me 
 
 - 💼 I am a Front End Developer with a background in Industrial Engineering.           
 - 💬 Ask me about anything [Here](https://github.com/sertackisalar/sertackisalar/issues)
