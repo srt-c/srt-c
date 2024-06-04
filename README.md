@@ -15,13 +15,18 @@
 ###
 <!-- LinkedIn and CodePen Links -->
 
- <p align="center"  style="border-radius:50%" >
-   <a href="https://www.linkedin.com/in/sertac-kisalar">
+ <p align="center">
+  <div>
+      <a href="https://www.linkedin.com/in/sertac-kisalar">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width="100" height="30">
   </a>
-  <a href="https://codepen.io/srtcode">
+     </div>
+     <div>
+        <a href="https://codepen.io/srtcode">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen">
   </a>
+        </div>
+  
 </p>
 
 ###
