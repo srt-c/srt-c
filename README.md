@@ -1,6 +1,8 @@
+### // Title
+
 <h2 align="center" font-size="bold">Hi 👋 I'm Sertac </h2>
 
-###
+### // Title Picture
 
 <div align="center">
   <img height="150" src=""  />
