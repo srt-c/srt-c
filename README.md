@@ -1,14 +1,16 @@
-### // Title
+<!-- Title -->
 
 <h2 align="center" font-size="bold">Hi 👋 I'm Sertac </h2>
 
-### // Title Picture
+### 
+<!-- Title Picture -->
 
 <div align="center">
   <img height="150" src=""  />
 </div>
 
 ###
+<!-- LinkedIn and CodePen Links -->
 
  <p align="center">
    <a href="https://www.linkedin.com/in/sertac-kisalar">
@@ -20,7 +22,7 @@
 </p>
 
 ###
-
+<!-- About Me -->
 
 #  :man_technologist: About Me
 
@@ -29,6 +31,8 @@
 - 📫 How to reach me: [sertackisalar.me@gmail.com](mailto:sertackisalar.me@gmail.com)
 
 ###
+<!-- Tech Area -->
+
 # 💻 Tech Stack:
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1;">
@@ -56,10 +60,14 @@
       <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="powerbi">
     </p>
   </div>
+  
+<!-- Status -->
   <div style="flex: 1;">
     <div style="text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
     </div>
+    
+<!-- Languages -->
     <div style="text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
     </div>
