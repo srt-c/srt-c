@@ -15,19 +15,19 @@
 ###
 <!-- LinkedIn and CodePen Links -->
 
- <p align="center">
-  <div style="border-radius:5px" >
+<p align="center">
+  <div style="border-radius:5px; overflow:hidden;" >
       <a href="https://www.linkedin.com/in/sertac-kisalar">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width="100" height="30">
   </a>
-     </div>
-     <div style="border-radius:50%" >
-        <a href="https://codepen.io/srtcode">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen">
-  </a>
-        </div>
-  
+  </div>
+  <div style="border-radius:50%; overflow:hidden;" >
+    <a href="https://codepen.io/srtcode">
+      <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen">
+    </a>
+  </div>
 </p>
+
 
 ###
 <!-- About Me -->
