@@ -60,7 +60,7 @@
 <img alt="GITHUB" src="https://img.shields.io/badge/GITHUB-%233a3a3a?style=plastic&logo=github&logoColor=%23ffff" height="20">
 </li>
 <li>🔧 &nbsp;
-<img alt="VSCODE" src="https://img.shields.io/badge/VISUALSTUDIOCODE-%233a3a3a?style=plastic&logo=visualstudiocode&logoColor=%23007ACC" height="20">
+<img alt="VSCODE" src="https://img.shields.io/badge/Visual%20Studio%20Code-%233a3a3a?style=plastic&logo=visualstudiocode&logoColor=%23007ACC" height="20">
 </li>
 </ul>
 
