@@ -23,21 +23,19 @@
     
 </p>
 
-
 <br>
+
 <!-- About Me -->
 
 ### 💻 About Me 
 
- 💼  I am a Front End Developer with a background in Industrial Engineering.       
- 
- 💬  Ask me about anything [Here](https://github.com/sertackisalar/sertackisalar/issues)
-
- 📫  How to reach me: [sertackisalar.me@gmail.com](mailto:sertackisalar.me@gmail.com)
+<ul dir="auto">
+<li> 💼 &nbsp;  I am a Front End Developer with a background in Industrial Engineering.</li>
+<li> 💬 &nbsp;  Ask me about anything [Here](https://github.com/sertackisalar/sertackisalar/issues)</li> 
+<li> 📫 &nbsp;  How to reach me: [sertackisalar.me@gmail.com](mailto:sertackisalar.me@gmail.com)</li>
+</ul>
 
 <br>
-
-
 
 <!-- Tech Area -->
 
