@@ -51,7 +51,9 @@
 <img alt="NODEJS" src="https://img.shields.io/badge/NODE.JS-%233a3a3a?style=plastic&logo=nodedotjs&logoColor=%235FA04E" height="20">
 </li>
 <li>🛢 &nbsp;
-<img src="https://camo.githubusercontent.com/ea4eadb357c3a2c1c7f45fdf9e0160642188db4b08e874daa93aeda075f004d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3333333333333f7374796c653d666c6174266c6f676f3d6d6f6e676f6462" alt="MongoDB" data-canonical-src="https://img.shields.io/badge/-MongoDB-333333?style=flat&amp;logo=mongodb" style="max-width: 100%;">
+<img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-%233a3a3a?style=plastic&logo=microsoftsqlserver&logoColor=%23CC2927" height="20">
+<img alt="MYSQL" src="https://img.shields.io/badge/MYSQL-%233a3a3a?style=plastic&logo=mysql&logoColor=%234479A1" height="20">
+<img alt="POSTGRESQL" src="https://img.shields.io/badge/POSTGRESQL-%233a3a3a?style=plastic&logo=postgresql&logoColor=%234169E1" height="20">
 </li>
 <li>⚙️ &nbsp;
 <img src="https://camo.githubusercontent.com/8a7125489e1797dfccceebd9b4669a098d22394ed1cd441e14913cfda30513d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3333333333333f7374796c653d666c6174266c6f676f3d676974" alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-333333?style=flat&amp;logo=git" style="max-width: 100%;">
