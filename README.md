@@ -3,7 +3,12 @@
 
 <!-- Title -->
 
-<h2 align="center" font-size="bold">Hi <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" align="left" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width="16" height="16"> I'm Sertac </h2>
+<div align="center" >
+   <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" align="left" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width="16" height="16">
+   <p> Hi </p> 
+   
+   <p> I'm Sertac </p>
+</div>
 
 ### 
 <!-- Title Picture -->
