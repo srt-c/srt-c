@@ -40,10 +40,10 @@
 
 ### 🛠 Tech Stack
 
-<ul dir="auto" style="list-style:none;">
+<ul dir="auto">
 <li>🌐 &nbsp;
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML-%233a3a3a?style=plastic&logo=html5" height="20">
-<img src="https://camo.githubusercontent.com/1ee3a2eb805895d501c6e4e294f539d91491b65e2dfaf8a240a87f501b0d88fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3333333333333f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236" alt="CSS" data-canonical-src="https://img.shields.io/badge/-CSS-333333?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" style="max-width: 100%;">
+<img alt="HTML" src="https://img.shields.io/badge/HTML-%233a3a3a?style=plastic&logo=html5" height="20">
+<img alt="CSS" src="https://img.shields.io/badge/CSS-%233a3a3a?style=plastic&logo=css3&logoColor=%231572B6" height="20">
 <img alt="Sass" src="https://img.shields.io/badge/Sass-%233a3a3a?style=plastic&logo=sass">
 <img src="https://camo.githubusercontent.com/f30429f7bf857f532c7d2a13c44483afa14968fe871b1b122798d2efc3d33205/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3333333333333f7374796c653d666c6174266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d353633443743" alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&amp;logo=bootstrap&amp;logoColor=563D7C" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/7533cf04f3aee7c09a42eec7cc35795091924e730e82893068eb0c1c58d2c5ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3333333333333f7374796c653d666c6174266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-333333?style=flat&amp;logo=javascript" style="max-width: 100%;">
