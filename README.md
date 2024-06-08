@@ -5,14 +5,14 @@
 ## <div align="center" > <p> Hi <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" data-target="animated-image.originalImage" width="30" height="30"> I'm Sertac  </p> </div>
 
 
-
+<br>
 <!-- Title Picture -->
 
 <div align="center" >
    <img src="https://private-user-images.githubusercontent.com/110279624/336291492-ed75bded-37ed-4dfa-8cea-5fc968d257de.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc0NzEwODcsIm5iZiI6MTcxNzQ3MDc4NywicGF0aCI6Ii8xMTAyNzk2MjQvMzM2MjkxNDkyLWVkNzViZGVkLTM3ZWQtNGRmYS04Y2VhLTVmYzk2OGQyNTdkZS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYwNFQwMzEzMDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04MWY2ZmI4NTJkNGQ1YzMyNGE4MDIyYmE5NzM0MjBjYTg0NWViODYxOGY1YzcyZWU5NWEyOWRkNGQzY2E3NTRkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.iGoaijhB1ZLDHDzdgCNbEGWQZ0fjiwmJ3qF8a_jDYX0" width="75%" height="200" title="welcome">
 </div>
 
-
+<br>
 <!-- LinkedIn and CodePen Links -->
 
 <p align="center">
@@ -25,7 +25,7 @@
 </p>
 
 
-
+<br>
 <!-- About Me -->
 
 #  :man_technologist: About Me 
@@ -36,7 +36,7 @@
 
  📫  How to reach me: [sertackisalar.me@gmail.com](mailto:sertackisalar.me@gmail.com)
 
-
+<br>
 <!-- Tech Area -->
 
 # 💻 Tech Stack:
