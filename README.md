@@ -2,7 +2,7 @@
 
 
 <!-- Title -->
-## <div align="center" > <p> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width="20" height="20"> I'm Sertac  </p> </div>
+# <div align="center" > <p> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width="20" height="20"> I'm Sertac  </p> </div>
 
 
 <br>
