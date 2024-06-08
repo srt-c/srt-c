@@ -50,7 +50,7 @@
 <img alt="REACT" src="https://img.shields.io/badge/REACT-%233a3a3a?style=plastic&logo=react&logoColor=%2361DAFB" height="20">
 <img alt="NODEJS" src="https://img.shields.io/badge/NODE.JS-%233a3a3a?style=plastic&logo=nodedotjs&logoColor=%235FA04E" height="20">
 </li>
-<li> 🛢 &#128738;
+<li> 🛢;
 <img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-%233a3a3a?style=plastic&logo=microsoftsqlserver&logoColor=%23CC2927" height="20">
 <img alt="MYSQL" src="https://img.shields.io/badge/MYSQL-%233a3a3a?style=plastic&logo=mysql&logoColor=%234479A1" height="20">
 <img alt="POSTGRESQL" src="https://img.shields.io/badge/POSTGRESQL-%233a3a3a?style=plastic&logo=postgresql&logoColor=%234169E1" height="20">
