@@ -41,7 +41,7 @@
 ### 🛠 Tech Stack
 
 <ul dir="auto">
-<li>🌐 
+<li> 🌐 &nbsp;
 <img alt="HTML" src="https://img.shields.io/badge/HTML-%233a3a3a?style=plastic&logo=html5" height="20">
 <img alt="CSS" src="https://img.shields.io/badge/CSS-%233a3a3a?style=plastic&logo=css3&logoColor=%231572B6" height="20">
 <img alt="SASS" src="https://img.shields.io/badge/SASS-%233a3a3a?style=plastic&logo=sass&logoColor=%23CC6699" height="20">
@@ -50,12 +50,12 @@
 <img alt="REACT" src="https://img.shields.io/badge/REACT-%233a3a3a?style=plastic&logo=react&logoColor=%2361DAFB" height="20">
 <img alt="NODEJS" src="https://img.shields.io/badge/NODE.JS-%233a3a3a?style=plastic&logo=nodedotjs&logoColor=%235FA04E" height="20">
 </li>
-<li> 🛢
+<li> 🛢 &nbsp;
 <img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-%233a3a3a?style=plastic&logo=microsoftsqlserver&logoColor=%23CC2927" height="20">
 <img alt="MYSQL" src="https://img.shields.io/badge/MYSQL-%233a3a3a?style=plastic&logo=mysql&logoColor=%234479A1" height="20">
 <img alt="POSTGRESQL" src="https://img.shields.io/badge/POSTGRESQL-%233a3a3a?style=plastic&logo=postgresql&logoColor=%234169E1" height="20">
 </li>
-<li>⚙️
+<li> ⚙️ &nbsp;
 <img src="https://camo.githubusercontent.com/8a7125489e1797dfccceebd9b4669a098d22394ed1cd441e14913cfda30513d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3333333333333f7374796c653d666c6174266c6f676f3d676974" alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-333333?style=flat&amp;logo=git" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/3bb5bcea14973fd4e53db973ea920d9ef9d09f18b8483ae82a2c580be369cdf8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3333333333333f7374796c653d666c6174266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-333333?style=flat&amp;logo=github" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/e792c861cfda991fb13d92dd4d0a1622ae8114dd853e907c924229c606a36a63/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d61726b646f776e2d3333333333333f7374796c653d666c6174266c6f676f3d6d61726b646f776e" alt="Markdown" data-canonical-src="https://img.shields.io/badge/-Markdown-333333?style=flat&amp;logo=markdown" style="max-width: 100%;">
