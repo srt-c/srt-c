@@ -29,16 +29,10 @@
 
 ### 💻 About Me 
 
-<ul dir="auto">
-<li> 💼 &nbsp;  I am a Front End Developer with a background in Industrial Engineering.</li>
-<li> 💬 &nbsp;  Ask me about anything [Here](https://github.com/sertackisalar/sertackisalar/issues)</li> 
-<li> 📫 &nbsp;  How to reach me: [sertackisalar.me@gmail.com](mailto:sertackisalar.me@gmail.com)</li>
-</ul>
-
 <ul>
   <li>💼 &nbsp; I am a Front End Developer with a background in Industrial Engineering.</li>
   <li>💬 &nbsp; Ask me about anything <a href="https://github.com/sertackisalar/sertackisalar/issues">Here</a></li>
-  <li>📫 &nbsp; How to reach me: <a href="mailto:sertackisalar.me@gmail.com">@gmail.com</a></li>
+  <li>📫 &nbsp; How to reach me: <a href="mailto:sertackisalar.me@gmail.com">sertackisalar.me@gmail.com</a></li>
 </ul>
 
 
