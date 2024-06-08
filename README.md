@@ -56,8 +56,8 @@
 <img alt="POSTGRESQL" src="https://img.shields.io/badge/POSTGRESQL-%233a3a3a?style=plastic&logo=postgresql&logoColor=%234169E1" height="20">
 </li>
 <li> ⚙️ &nbsp;
-<img src="https://camo.githubusercontent.com/8a7125489e1797dfccceebd9b4669a098d22394ed1cd441e14913cfda30513d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3333333333333f7374796c653d666c6174266c6f676f3d676974" alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-333333?style=flat&amp;logo=git" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/3bb5bcea14973fd4e53db973ea920d9ef9d09f18b8483ae82a2c580be369cdf8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3333333333333f7374796c653d666c6174266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-333333?style=flat&amp;logo=github" style="max-width: 100%;">
+<img alt="GIT" src="https://img.shields.io/badge/GIT-%233a3a3a?style=plastic&logo=git&logoColor=%23F05032" height="20>
+<img alt="GITHUB" src="https://img.shields.io/badge/GITHUB-%233a3a3a?style=plastic&logo=github&logoColor=%23ffff" height="20>
 <img src="https://camo.githubusercontent.com/e792c861cfda991fb13d92dd4d0a1622ae8114dd853e907c924229c606a36a63/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d61726b646f776e2d3333333333333f7374796c653d666c6174266c6f676f3d6d61726b646f776e" alt="Markdown" data-canonical-src="https://img.shields.io/badge/-Markdown-333333?style=flat&amp;logo=markdown" style="max-width: 100%;">
 </li>
 <li>🔧 &nbsp;
