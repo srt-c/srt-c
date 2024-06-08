@@ -19,10 +19,10 @@
       <a href="https://www.linkedin.com/in/sertac-kisalar">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width="120" height="40">
   </a>
-    <a href="https://codepen.io/srtcode">
+    
      <img alt="CodePen"
        src="https://img.shields.io/badge/CodePen-1A2130?style=plastic&logo=codepen&link=https%3A%2F%2Fcodepen.io%2Fsrtcode">
-    </a>
+    
 </p>
 
 
