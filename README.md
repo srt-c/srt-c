@@ -46,9 +46,9 @@
 <img alt="CSS" src="https://img.shields.io/badge/CSS-%233a3a3a?style=plastic&logo=css3&logoColor=%231572B6" height="20">
 <img alt="SASS" src="https://img.shields.io/badge/SASS-%233a3a3a?style=plastic&logo=sass&logoColor=%23CC6699" height="20">
 <img alt="BOOTSTRAP" src="https://img.shields.io/badge/BOOTSTRAP-%233a3a3a?style=plastic&logo=bootstrap&logoColor=%237952B3" height="20">
-<img src="https://camo.githubusercontent.com/7533cf04f3aee7c09a42eec7cc35795091924e730e82893068eb0c1c58d2c5ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3333333333333f7374796c653d666c6174266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-333333?style=flat&amp;logo=javascript" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/2f848935b238d87961cc06f240f1b27b8f5da7960fd3074b81c54d117ca98dcf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3333333333333f7374796c653d666c6174266c6f676f3d6e6f64652e6a73" alt="Node.js" data-canonical-src="https://img.shields.io/badge/-Node.js-333333?style=flat&amp;logo=node.js" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/e959d558b208794d7c904321f11894e636a01e925084c9d0b67ef671418e46e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3333333333333f7374796c653d666c6174266c6f676f3d7265616374" alt="React" data-canonical-src="https://img.shields.io/badge/-React-333333?style=flat&amp;logo=react" style="max-width: 100%;">
+<img alt="JAVASCRIPT" src="https://img.shields.io/badge/JAVASCRIPT-%233a3a3a?style=plastic&logo=javascript&logoColor=%23F7DF1E" height="20">
+<img alt="REACT" src="https://img.shields.io/badge/REACT-%233a3a3a?style=plastic&logo=react&logoColor=%2361DAFB" height="20">
+<img alt="NODEJS" src="https://img.shields.io/badge/NODE.JS-%233a3a3a?style=plastic&logo=nodedotjs&logoColor=%235FA04E" height="20">
 </li>
 <li>🛢 &nbsp;
 <img src="https://camo.githubusercontent.com/ea4eadb357c3a2c1c7f45fdf9e0160642188db4b08e874daa93aeda075f004d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3333333333333f7374796c653d666c6174266c6f676f3d6d6f6e676f6462" alt="MongoDB" data-canonical-src="https://img.shields.io/badge/-MongoDB-333333?style=flat&amp;logo=mongodb" style="max-width: 100%;">
