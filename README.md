@@ -16,9 +16,10 @@
 <!-- LinkedIn and CodePen Links -->
 
 <p align="center">
-     <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-%230974ac?style=plastic&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsertac-kisalar">
+     <img alt="LinkedIn" 
+        src="https://img.shields.io/badge/Linkedin-%230974ac?style=plastic&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsertac-kisalar">
      <img alt="CodePen"
-       src="https://img.shields.io/badge/CodePen-1A2130?style=plastic&logo=codepen&link=https%3A%2F%2Fcodepen.io%2Fsrtcode">
+        src="https://img.shields.io/badge/CodePen-1A2130?style=plastic&logo=codepen&link=https%3A%2F%2Fcodepen.io%2Fsrtcode">
     
 </p>
 
