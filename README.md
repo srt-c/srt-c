@@ -5,7 +5,7 @@
 
 <div align="center">
   <img alt="Title"
-        src="https://github.com/srt-c/srt-c/assets/110279624/82dfb238-9555-4b32-a08d-1614faf3af80" width="100%" height="100">
+        src="https://github.com/srt-c/srt-c/assets/110279624/82dfb238-9555-4b32-a08d-1614faf3af80" width="100%" height="500">
 </div>
 
 <br>
