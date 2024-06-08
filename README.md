@@ -3,10 +3,9 @@
 
 <!----------------------------------{ Title }------------------------------->
 
-<div align="center" width="100%">
-  
-![Title](https://github.com/srt-c/srt-c/assets/110279624/82dfb238-9555-4b32-a08d-1614faf3af80)
-
+<div align="center">
+  <img alt="Title"
+        src="https://github.com/srt-c/srt-c/assets/110279624/82dfb238-9555-4b32-a08d-1614faf3af80" width="100%">
 </div>
 
 <br>
