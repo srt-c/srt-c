@@ -4,7 +4,7 @@
 <!-- Title -->
 
 <div align="center" >
-   <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" align="left" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width="16" height="16">
+   <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" data-target="animated-image.originalImage" width="16" height="16">
    <p> Hi </p> 
    
    <p> I'm Sertac </p>
