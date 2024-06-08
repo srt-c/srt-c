@@ -28,7 +28,7 @@
 <br>
 <!-- About Me -->
 
-## 💻 About Me 
+### 💻 About Me 
 
  💼  I am a Front End Developer with a background in Industrial Engineering.       
  
@@ -39,7 +39,7 @@
 <br>
 <!-- Tech Area -->
 
-## 🛠 Tech Stack:
+### 🛠 Tech Stack
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1;">
     <p style="text-align: left;">
