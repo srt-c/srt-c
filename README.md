@@ -14,9 +14,12 @@
 
 <div align="center">
      <img alt="LinkedIn" 
-        src="https://img.shields.io/badge/Linkedin-%230974ac?style=plastic&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsertac-kisalar" height="30">
+        src="https://img.shields.io/badge/Linkedin-%230974ac?style=plastic&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsertac-kisalar" height="25">
      <img alt="CodePen"
-        src="https://img.shields.io/badge/CodePen-1A2130?style=plastic&logo=codepen&link=https%3A%2F%2Fcodepen.io%2Fsrtcode" height="30">
+        src="https://img.shields.io/badge/CodePen-1A2130?style=plastic&logo=codepen&link=https%3A%2F%2Fcodepen.io%2Fsrtcode" height="25">
+     <img alt="GMail"
+        src="https://img.shields.io/badge/GMail-%23EA4335?style=plastic&logo=gmail&logoColor=%23fff&link=sertackisalar.me%40gmail.com" height="25">
+
 </div>
 
 <br>
