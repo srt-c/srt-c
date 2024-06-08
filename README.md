@@ -1,4 +1,6 @@
 
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width="40" height="40">
+
 <!----------------------------------{ Title }------------------------------->
 
 <div align="center" >
@@ -10,8 +12,6 @@
 
 <!----------------------------------{ Links }------------------------------->
 
-
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width="40" height="40">
 <div align="center">
      <img alt="LinkedIn" 
         src="https://img.shields.io/badge/Linkedin-%230974ac?style=plastic&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsertac-kisalar" height="30">
