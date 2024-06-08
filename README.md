@@ -25,7 +25,7 @@
 
 <!----------------------------------{ About Me}------------------------------->
 
-### 💻 About Me 
+<summary>### 💻 About Me 
 
 <ul>
   <li>💼 &nbsp; I am a Front End Developer with a background in Industrial Engineering.</li>
