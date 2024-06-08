@@ -56,11 +56,8 @@
 <img alt="POSTGRESQL" src="https://img.shields.io/badge/POSTGRESQL-%233a3a3a?style=plastic&logo=postgresql&logoColor=%234169E1" height="20">
 </li>
 <li> ⚙️ &nbsp;
-<img alt="GIT" src="https://img.shields.io/badge/GIT-%233a3a3a?style=plastic&logo=git&logoColor=%23F05032" height="20>
-   
+<img alt="GIT" src="https://img.shields.io/badge/GIT-%233a3a3a?style=plastic&logo=git&logoColor=%23F05032" height="20> 
 <img alt="Static Badge" src="https://img.shields.io/badge/MARKDOWN-%233a3a3a?style=plastic&logo=markdown&logoColor=%23ffff">
-
-
 </li>
 <li>🔧 &nbsp;
 <img src="https://camo.githubusercontent.com/d8932bbfd71bc046a82e449545f35985b9a78f4ac73cd8b0d6e61f9f45179b30/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3333333333333f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343" alt="Visual Studio Code" data-canonical-src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" style="max-width: 100%;">
